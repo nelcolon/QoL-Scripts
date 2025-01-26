@@ -1,7 +1,7 @@
 # QoL-Scripts
 Scripts for QoL while working, for increaing productivity, etc.
 
-## Order.py
+## order.py
 This script organizes files in a specified directory by their extensions. It moves files into folders named after their extensions.
 
 ### Usage
